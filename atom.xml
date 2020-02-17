@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://484sa.cn</id>
+    <id>https://qiuyaliang.github.io/blogtest/</id>
     <title>niuio&apos;s bolg</title>
-    <updated>2020-02-17T08:13:36.862Z</updated>
+    <updated>2020-02-17T08:29:06.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://484sa.cn"/>
-    <link rel="self" href="http://484sa.cn/atom.xml"/>
+    <link rel="alternate" href="https://qiuyaliang.github.io/blogtest/"/>
+    <link rel="self" href="https://qiuyaliang.github.io/blogtest/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://484sa.cn/images/avatar.png</logo>
-    <icon>http://484sa.cn/favicon.ico</icon>
+    <logo>https://qiuyaliang.github.io/blogtest/images/avatar.png</logo>
+    <icon>https://qiuyaliang.github.io/blogtest/favicon.ico</icon>
     <rights>All rights reserved 2020, niuio&apos;s bolg</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://484sa.cn/post/hello-gridea/</id>
-        <link href="http://484sa.cn/post/hello-gridea/">
+        <id>https://qiuyaliang.github.io/blogtest/post/hello-gridea/</id>
+        <link href="https://qiuyaliang.github.io/blogtest/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
